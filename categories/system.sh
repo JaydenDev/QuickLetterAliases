@@ -1,4 +1,4 @@
-alias j='journalct'
+alias j='sudo journalct'
 alias i='inxi'
-alias m='modprobe'
-alias mr='modprobe -r'
+alias m='sudo modprobe'
+alias mr='sudo modprobe -r'
